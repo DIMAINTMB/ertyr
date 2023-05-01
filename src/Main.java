@@ -6,7 +6,7 @@ public class Main {
         int rublesPerMiles = 20;
 // расчет количества бонусных милей
         int bonus = (costTicket / rublesPerMiles);
-        System.out.println( "Бонусные мили: " + bonus);
+        System.out.println("Бонусные мили: " + bonus);
 
 
     }
